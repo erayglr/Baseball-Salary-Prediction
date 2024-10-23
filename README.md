@@ -1,9 +1,3 @@
-<div style="border-radius:10px;
-            border : black solid;
-            background-color: #FFFFF;
-            font-size:110%;
-            text-align: left">
-
 In this notebook, we will develop a machine learning model that can estimate the player's salary.
 
 Before modelling , we will make the exploratory data analysis and feature engineering for its dataset.
